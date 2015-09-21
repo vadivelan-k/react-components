@@ -1,0 +1,20 @@
+
+<%= javascript_include_tag(params[:controller]) %>
+
+<h3>
+  Home#index
+</h3>
+
+<div id="react-components">
+
+</div>
+
+
+<script>
+  $(document).ready(function () {
+    console.log('ready...');
+    Window.Home.init();
+  });
+</script>
+
+

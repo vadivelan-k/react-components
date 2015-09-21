@@ -1,0 +1,15 @@
+{
+  "name": "rails-react-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "babel-core": "^5.6.18",
+    "babel-es6-polyfill": "^1.0.1",
+    "babel-jest": "^5.3.0",
+    "babel-loader": "^5.3.1",
+    "babel-runtime": "^5.8.20",
+    "lodash": "^3.10.1",
+    "react": "^0.13.3",
+    "react-router": "^1.0.0-rc1",
+    "webpack": "^1.12.2"
+  }
+}
